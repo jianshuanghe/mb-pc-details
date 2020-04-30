@@ -33,7 +33,7 @@
     "easytoast-f-vue": "^1.0.5",
     "echarts": "^4.2.1",
     "element-ui": "^2.13.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "js-base64": "^2.5.2",
     "js-md5": "^0.6.0",
     "jsignature": "^2.1.2",
